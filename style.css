@@ -156,7 +156,7 @@ body {
     align-items: center;
     width: 40px;
     height: 40px;
-    background: radial-gradient(50deg, black, white, green);
+    background: radial-gradient(50deg, rgb(190, 19, 168),rgb(5, 240, 169));
    /* background: linear-gradient(50deg, red, orange, yellow, green, blue, indigo, violet, red);*/
     border-radius: 50%;
     font-size: 20px;
